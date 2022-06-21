@@ -1,0 +1,31 @@
+header {
+    background-color: yellow;
+}
+/* Estetica del main*/
+main{
+    background-color: gray;
+    max-width: 75%;
+    margin: 5%;
+    display: flex;
+
+    
+}
+
+main div h2{
+    color: black;
+    
+}
+main div p{
+    color: black;
+}
+/* Footer estilo*/
+footer{
+    background-color: yellow;
+
+}
+/* No me toma el fondo amarrillo */
+
+section{
+    background-color: yellow;
+    
+}
